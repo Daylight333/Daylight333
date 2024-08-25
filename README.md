@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Daylight333
+- 👋 Hi, I’m Dayna Corman
 - 👀 I’m interested in computer science and game development
 - 🌱 I’m currently learning computer science at queens university
 
